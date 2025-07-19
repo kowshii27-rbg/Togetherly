@@ -1,4 +1,4 @@
-# Togetherly Backend
+# Togetherly Real-Time Team Collaboration Platform
 
 A real-time team collaboration platform backend built with FastAPI, PostgreSQL, and Redis.
 
